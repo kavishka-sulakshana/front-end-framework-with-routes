@@ -1,4 +1,4 @@
-# simple front-end framework
+# Simple front-end framework
 This is a simple front-end framework made with express.  
 ## Features
 - Can work with components
