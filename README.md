@@ -1,5 +1,12 @@
 # Simple front-end framework
-This is a simple front-end framework made with express.  
+This is a simple front-end framework made with express.
+
+> Run 'npm install' first
+
+> Run 'npm start' to start server
+
+> Go to localhost:8080
+
 ## Features
 - Can work with components
 - Can pass variables through components
